@@ -1,0 +1,20 @@
+/*  Button CSS File */
+
+.btn-primary{
+  display: inline-block;
+  color: #ffffff;
+  background: #f8b2b2;
+  padding: 15px 25px;
+  border-radius: 50px;
+  font-weight: bold;
+  opacity: 0.9;
+  margin-top: 16px;
+}
+
+.btn-primary:hover{
+  background: #fcfcfc;
+  border: #fcfcfc;
+  color: #d28282;
+  opacity: 0.6;
+  transition: 0.3s ease;
+}
